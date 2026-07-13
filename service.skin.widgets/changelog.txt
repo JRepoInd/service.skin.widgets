@@ -1,5 +1,6 @@
-v1.0.2
+v1.0.3
 - Reorganize to limit code in default.py. 
+- Add movie cast, set, and premiered data from library
 
 v1.0.0
 - Provide performance improvements for Kodi 21/22
